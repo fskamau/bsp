@@ -1,2 +1,2 @@
 # simple Binary Space Partitioning widgets with raylib
-![demo](/demo.png)
+![demo](demo.png)
